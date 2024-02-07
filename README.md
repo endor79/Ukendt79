@@ -26,9 +26,6 @@ Application list pcmanfm -> menu://applications/
 # Download
 [![Download Ukendt79](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ukendt79/files/latest/download)
 
-[![Download Ukendt79](https://img.shields.io/sourceforge/dt/ukendt79.svg)](https://sourceforge.net/projects/ukendt79/files/latest/download)
-
-
 # Screenshot
 ![1](https://github.com/endor79/Ukendt79/assets/105305285/b6ac7443-ac10-4bbe-84c2-eeb1d9df59fa)
 ![2](https://github.com/endor79/Ukendt79/assets/105305285/5105f5c0-3c19-45e7-b0c2-8586238cddc2)
