@@ -24,7 +24,9 @@ Application list pcmanfm -> menu://applications/
 - It can be used for Arch installation.
 
 # Download
-<a href="https://sourceforge.net/p/ukendt79/"><img alt="Download Ukendt79" src="https://sourceforge.net/sflogo.php?type=18&group_id=3722596" width=200></a>
+[![Download Ukendt79](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ukendt79/files/latest/download)
+[![Download Ukendt79](https://img.shields.io/sourceforge/dt/ukendt79.svg)](https://sourceforge.net/projects/ukendt79/files/latest/download)
+
 
 # Screenshot
 ![1](https://github.com/endor79/Ukendt79/assets/105305285/b6ac7443-ac10-4bbe-84c2-eeb1d9df59fa)
