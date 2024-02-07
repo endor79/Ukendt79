@@ -23,6 +23,9 @@ Application list pcmanfm -> menu://applications/
 - Uses i3-wm for lightness.
 - It can be used for Arch installation.
 
+# Download
+<a href="https://sourceforge.net/p/ukendt79/"><img alt="Download Ukendt79" src="https://sourceforge.net/sflogo.php?type=18&group_id=3722596" width=200></a>
+
 # Screenshot
 ![1](https://github.com/endor79/Ukendt79/assets/105305285/b6ac7443-ac10-4bbe-84c2-eeb1d9df59fa)
 ![2](https://github.com/endor79/Ukendt79/assets/105305285/5105f5c0-3c19-45e7-b0c2-8586238cddc2)
