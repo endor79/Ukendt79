@@ -1,11 +1,15 @@
 # Users and Passwords
 root:root
+
 ukendt79:ukendt79
 
 # Shortcuts
 [mod key = Alt]
+
 mod+t -> rofi
+
 mod+c -> pcmanfm
+
 mod+enter -> kitty
 
 # Applications
